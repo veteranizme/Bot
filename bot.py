@@ -23,7 +23,7 @@ from telegram.ext import (
 )
 
 # ── Konfigurasi ──────────────────────────────────────────────
-BOT_TOKEN = "ISI_TOKEN_BOT_ANDA_DI_SINI"  # Dari @BotFather
+BOT_TOKEN = "8677071742:AAF8jOFBbIT23JRreALUYhZLTuYFz4OfFQU"  # Dari @BotFather
 DB_FILE   = "laporan.db"
 
 logging.basicConfig(
